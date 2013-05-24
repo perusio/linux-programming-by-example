@@ -1,0 +1,24 @@
+Tue Feb  3 15:21:03 IST 2004
+============================
+
+Provided here are copies of just the files quoted in:
+
+	Linux Programming By Example: The Fundamentals
+
+by Arnold Robbins, Copyright (C) 2004, Prentice Hall.
+
+The original distributions may be obtained in full from the Free Software
+Foundation's FTP site, at the following URLs:
+
+Coreutils 5.0:		ftp://ftp.gnu.org/gnu/coreutils/coreutils-5.0.tar.gz
+Gawk 3.0.6		ftp://ftp.gnu.org/gnu/gawk/gawk-3.0.6.tar.gz
+Gawk 3.1.3		ftp://ftp.gnu.org/gnu/gawk/gawk-3.1.3.tar.gz
+Gawk 3.1.4		ftp://ftp.gnu.org/gnu/gawk/gawk-3.1.4.tar.gz
+Make 3.80:		ftp://ftp.gnu.org/gnu/make/make-3.80.tar.gz
+GLIBC 2.3.2		ftp://ftp.gnu.org/gnu/glibc/glibc-2.3.2.tar.gz
+
+The `getopt' directory contains the source for the GNU getopt() and
+getopt_long() functions, copied from the gawk 3.1.3 distribution.
+
+You may also find the source for the current version of these utilities
+in your GNU/Linux distribution.

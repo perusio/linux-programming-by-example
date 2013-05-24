@@ -1,0 +1,26 @@
+# echodate translations into pig Latin
+# Copyright (C) 2004 Prentice Hall
+# This file is distributed under the same license as the echodate package.
+# Arnold Robbins <arnold@example.com> 2004
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: echodate 1.0\n"
+"Report-Msgid-Bugs-To: arnold@example.com\n"
+"POT-Creation-Date: 2003-07-14 18:46-0700\n"
+"PO-Revision-Date: 2003-07-14 19:00+8\n"
+"Last-Translator: Arnold Robbins <arnold@example.com>\n"
+"Language-Team: Pig Latin <piglat@@li.example.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ch13-echodate.c:19
+msgid "Enter a Date/time as YYYY/MM/DD HH:MM:SS : "
+msgstr "Enteray A Ateday/imetay asay YYYY/MM/DD HH:MM:SS : "
+
+#: ch13-echodate.c:32
+#, c-format
+msgid "Got: %s"
+msgstr "Otgay: %s"

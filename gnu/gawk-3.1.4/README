@@ -1,0 +1,8 @@
+Tue Feb  3 15:21:03 IST 2004
+============================
+
+This file is a development snapshot, it is not the final version of builtin.c
+from the gawk 3.1.4 release.  It does contain the code quoted in the book.
+
+You may wish to retrieve the final gawk 3.1.4 distribution from the Free
+Software Foundation's web site.
